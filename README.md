@@ -7,17 +7,17 @@ This repository contains the source code and resources for my personal research 
 ## Repository Structure
 
 ```text
-mb21100.github.io/
+shawn.github.io/
 │
-├── index.html          # Home page
-├── research.html       # Research experience and interests
-├── projects.html       # Research and technical projects
-├── about.html          # Education and personal background
-├── styles.css          # Website styling
-├── cv.pdf              # Curriculum Vitae
+├── index.html
+├── style.css
+│
+├── research.html
+├── projects.html
+├── about.html
+│
+├── cv.pdf
 │
 └── images/
-    ├── profile.jpg     # Profile photo
-    ├── project1.jpg    # Project image
-    └── project2.jpg    # Project image
+    └── profile.jpg
 ```
